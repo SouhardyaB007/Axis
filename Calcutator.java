@@ -2,7 +2,11 @@ public class Calculator{
    
    public void add(){
    }
-   Public void sub(){
+   public void sub(){
+   }
+   public void mul(){
+   }
+   public void div(){
    }
 
 public static void main(){
